@@ -1,1 +1,1 @@
-# BayesianChangepointDetection
+# Bayesian Online Changepoint Detection
